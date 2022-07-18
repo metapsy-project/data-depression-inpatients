@@ -1,0 +1,3 @@
+Multiple outcome calculation types might be available within trials. These can be filtered through the "outcome_type" and "primary_calc" variables. 
+"outcome_type": msd (means and standard deviations), change from baseline, response, remission...
+"primary_calc": allows to select one type of calculation within a trial (for trials reporting multiple outcome types, such as means and standard deviations AND remission)
