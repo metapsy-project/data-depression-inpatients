@@ -1,0 +1,26 @@
+{
+    "database.hits": 30889,
+    "additional.records": 126,
+    "database.hits.duplicates.removed": 21563,
+    "records.screened": 21563,
+    "full.text.assessed.for.eligibility": 3584,
+    "full.text.excluded.reasons": 
+    {
+        "Companion papers": 818,
+        "Depression is not an inclusion criterion": 484,
+        "Dissertations": 21,
+        "Effect sizes cannot be estimated": 92,
+        "Maintenenance trial": 138,
+        "No control condition": 68,
+        "No psychotherapy for depression": 291,
+        "No random assignment": 79,
+        "Not available": 67,
+        "Other": 243,
+        "Other language": 22,
+        "Protocol paper": 335,
+        "Stepped care/management program": 48,
+        "Studies with chidlren/adolescents": 69
+    },
+    "included": 809
+}
+Footer
