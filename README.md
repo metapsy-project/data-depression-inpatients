@@ -1,4 +1,4 @@
-# The `data-inpatients` dataset 📊
+## The `data-inpatients` dataset 📊
 
 The `data-inpatients` dataset is part of the meta-analytic research domain (MARD) on psychotherapy for depression. This MARD is part of the Metapsy project. The dataset contains study information and effect size data of depression psychotherapy trials in inpatients. The date of the last search update is provided [here](https://github.com/metapsy-project/data-inpatients/blob/main/metadata/last_search.txt). 
 
