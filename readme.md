@@ -1,6 +1,6 @@
 ## **The `data-inpatients` dataset** 📊 
 
-[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.6881064-blue">](https://zenodo.org/record/6883932)
+[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.6881064-blue">](https://dx.doi.org/10.5281/zenodo.6881064)
 
 The `data-inpatients` dataset is part of the meta-analytic research domain ([MARD](https://docs.metapsy.org/uploads/ebmental-2022-300509.pdf)) on psychotherapy for depression. This MARD is part of the [Metapsy project](https://www.metapsy.org/). The dataset contains study information and effect size data of depression psychotherapy trials in inpatients. The date of the last search update is provided [here](https://github.com/metapsy-project/data-inpatients/blob/main/metadata/last_search.txt). 
 
