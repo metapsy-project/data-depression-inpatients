@@ -115,7 +115,9 @@ OR 'dysthymia'/exp OR 'dysthymic' OR 'mood disorder'/exp OR 'affective disorder'
 'affective disorders' OR 'mood disorder' OR 'mood disorders'
 Combine: #5 AND #6
 Limits: RCTs
-PsycINFO
+
+**PsycINFO**
+---
 (DE "Psychotherapy" OR "Psychotherapy" OR "psychotherapies" OR "psychotherapeutic" OR "psychotherapeutical"
 OR "psychotherapeutics" OR DE "Behavior Therapy" OR DE "Cognitive Behavior Therapy" OR "CBT" OR "behavior
 therapies" OR "behavior therapy" OR "behavior therapeutic" OR "behavior therapeutical" OR "behavior therapeutics" 
